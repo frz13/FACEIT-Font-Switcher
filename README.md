@@ -15,7 +15,7 @@ Choose from gaming, modern, condensed and decorative fonts with **Latin + Cyrill
 -  Reset fonts with one click
 -  Optional custom localization
 -  Designed for FACEIT's dynamic interface
--  Add u fonts in favorite
+-  Add your fonts in favorite
 
 ##  Installation
 
