@@ -8,13 +8,14 @@ Choose from gaming, modern, condensed and decorative fonts with **Latin + Cyrill
 
 ##  Features
 
--  20+ fonts
+-  300+ fonts
 -  Latin + Cyrillic support
 -  Instant font switching
 -  Saves your selected font
 -  Reset fonts with one click
 -  Optional custom localization
 -  Designed for FACEIT's dynamic interface
+-  Add u fonts in favorite
 
 ##  Installation
 
