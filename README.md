@@ -4,7 +4,7 @@ Change the font style of **FACEIT** with one click.
 
 Choose from gaming, modern, condensed and decorative fonts with **Latin + Cyrillic support**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/frz13/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/frz13/FACEIT-Font-Switcher)
 
 ##  Features
 
